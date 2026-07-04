@@ -96,6 +96,8 @@ Task categories and priorities
 
 Archana Singh
 
+### GitHub Repo
+https://github.com/Archanasingh27/To-do-App.git
 
 ### License
 
