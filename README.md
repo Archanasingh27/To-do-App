@@ -52,13 +52,31 @@ todo-app/
 
 ### Installation
 
-Clone the repository
-git clone https://github.com/Archanasingh27/To-do-App.git
-Move to the project folder
-cd todo-app
-Install dependencies
+### option 1:
+
+1. Download and extract the ZIP file.
+2. Open the project folder in VS Code.
+3. Open the terminal.
+##  Install dependencies:
+
 npm install
-Start the development server
+
+## Start the development server:
+
+npm run dev
+
+----
+
+### option 2: Clone the repository
+git clone https://github.com/Archanasingh27/To-do-App.git
+
+### Move to the project folder
+cd To-do-App
+
+### Install dependencies
+npm install
+
+### Start the development server
 npm run dev
 
 Open the application in your browser using the local URL shown in the terminal (usually http://localhost:5173).
@@ -96,8 +114,6 @@ Task categories and priorities
 
 Archana Singh
 
-### GitHub Repo
-https://github.com/Archanasingh27/To-do-App.git
 
 ### License
 
